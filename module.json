@@ -1,0 +1,11 @@
+{
+    "name": "Manufacturing",
+    "slug": "manufacturing",
+    "version": "1.0.0",
+    "description": "Production & Work Orders",
+    "description_ar": "التصنيع وأوامر العمل",
+    "is_active": true,
+    "provider": "Dev3bdulrahman\\Manufacturing\\Providers\\ManufacturingServiceProvider",
+    "dependencies": [],
+    "order": 9
+}
