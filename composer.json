@@ -2,7 +2,7 @@
     "name": "dev-3bdulrahman/manufacturing",
     "description": "A Manufacturing module for Laravel ERP — BOM, Work Centers, Production Orders, Work Orders & Material Consumption.",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "license": "MIT",
     "authors": [
         {
